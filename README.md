@@ -84,3 +84,5 @@ Graphical comparisons and performance plots are also included for better visuali
 ## 👨‍💻 Authors
 
 - Ahmed Ue Razzak
+- Ishmam Rahman Shuhan
+- Shourov Roy Ratul
